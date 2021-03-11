@@ -1,0 +1,10 @@
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\bin\Debug\Modern_UI.exe.config
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\bin\Debug\Modern_UI.exe
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\bin\Debug\Modern_UI.pdb
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\obj\Debug\Modern_UI.Form1.resources
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\obj\Debug\Modern_UI.Properties.Resources.resources
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\obj\Debug\Modern_UI.csproj.GenerateResource.cache
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\obj\Debug\Modern_UI.csproj.CoreCompileInputs.cache
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\obj\Debug\Modern_UI.exe
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\obj\Debug\Modern_UI.pdb
+C:\Users\Taylan Karahan\Yazılım\C#\Modern_UI\Modern_UI\obj\Debug\Modern_UI.csprojAssemblyReference.cache
